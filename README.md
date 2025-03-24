@@ -7,7 +7,7 @@
 - CUDA Version 12.3
 - INTEL XEON(R) CPU E5-1650 v4 @ 3.60 GHz x12
 
-### Code execution rrder
+### Code execution order
 1. `train_vqvae.py`
 2. `train_pixelsnail.py` (for both, top and bottom configurations)
 3. `testing.py`
