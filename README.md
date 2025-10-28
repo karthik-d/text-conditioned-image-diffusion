@@ -1,6 +1,6 @@
 ### Cite Us
 
-[Link to the Research Paper (preprint version)](https://doi.org/10.1007/s11042-025-20990-0).
+[Link to the Research Paper (final version)](https://doi.org/10.1007/s11042-025-20990-0).
 
 If you find our work useful in your research, please cite us:
 
@@ -30,4 +30,5 @@ If you find our work useful in your research, please cite us:
 1. `train_vqvae.py`
 2. `train_pixelsnail.py` (for both, top and bottom configurations)
 3. `testing.py`
+
 
